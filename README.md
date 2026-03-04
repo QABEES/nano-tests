@@ -1,0 +1,2 @@
+- Nano tests use short JSON or YAML steps to automate testing and Steply CLI to run them.
+- BDD: Is just terminology stands for Behaviour Driven Development. It doesn't affect the writing or execution of the tests
